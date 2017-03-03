@@ -1,0 +1,12 @@
+Configuração do Hyperterminal para taxa 2400
+
+2400
+bit de dados = 8
+Paridade = nenhum
+Bit de parada = 1
+Controle de fluxo = nenhum
+
+Em Settings -> ASCII setup selecionar:
+send line endes with line feeds
+echo typed characters locally
+
