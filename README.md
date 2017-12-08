@@ -17,9 +17,9 @@ Desenvolvido com:
 
 ## Composição do projeto
 
-Porjeto dividido em:
+Projeto dividido em:
 
-- **Esquema elétrico:** Esquema elétrico de montagem do projeto.
+- **Esquema elétrico:** Imagem do esquema elétrico de montagem do projeto.
 - **Projeto:** Pasta com o código fonte do projeto em C.
 - **Simulacao no Proteus:** Pasta com os arquivos para simulação no Proteus.
 - **hyperterminal:** Pasta com o executável do hyperterminal para testes reais.
@@ -51,9 +51,9 @@ Porjeto dividido em:
 
 - MODO CONFIG: chave CH3 em nível lógico baixo. Ao ligar o microcontrolador, o usuário deve pressionar a chave SW14. Deverá aparecer um menu com as seguintes
 opões:
-	1. Conguração: ao pressionar a tecla 1, o usuário entra com a data, a hora e a base de tempo do datalogger, como mostrado abaixo:
+	1. **Configuração:** ao pressionar a tecla 1, o usuário entra com a data, a hora e a base de tempo do datalogger, como mostrado abaixo:
 		29/11/08 14:28:00 1
-	2. EEPROM: ao presionar a tecla 2, os dados coletados são lidos diretamente da EEPROM e enviados ao PC pelo Hyperterminal, como mostrado abaixo:
+	2. **EEPROM:** ao presionar a tecla 2, os dados coletados são lidos diretamente da EEPROM e enviados ao PC pelo Hyperterminal, como mostrado abaixo:
 		29/11/08 14:29:01 22,5
 		29/11/08 14:30:01 23,5
-	3. Sair: sai do MODO CONFIG.
+	3. **Sair:** sai do MODO CONFIG.
